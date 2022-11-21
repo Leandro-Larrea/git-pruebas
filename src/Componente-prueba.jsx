@@ -1,5 +1,7 @@
-export default function Malehermosa(){
+export default function Malehermosa() {
     return (
-        <div>ROSQUETERIA</div>
+        <div>ROSQUETERIA
+            <h1>La mejor rosqueteria del pueblo</h1>
+        </div>
     )
 }
